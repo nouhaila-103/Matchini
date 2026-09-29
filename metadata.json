@@ -1,0 +1,6 @@
+{
+  "name": "Matchini - Fret Retour & Séquestre Logistique Maroc",
+  "description": "Plateforme B2B d'optimisation du fret retour (backhaul) au Maroc, tiers de confiance pour transporteurs, expéditeurs et courtiers avec séquestre bancaire et assistant Darija.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
